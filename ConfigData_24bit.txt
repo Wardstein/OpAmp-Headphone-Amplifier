@@ -1,0 +1,282 @@
+# 201512
+02 # [00] ConfigVersion
+00 # [01] UserDefined
+8C # [02] I2CAddress
+B2 # [03] MiscProperties1
+C2 # [04] PbMinVolDb
+00 # [05] PbMaxVolDb
+01 # [06] PbVolRes
+FA # [07] PbVolInitial
+00 # [08] PbMuteInitial
+00 # [09] RecMuteInitial
+07 # [10] MiscProperties2
+00 # [11] PbVolPrimaryLeftLsb
+44 # [12] PbVolPrimaryLeftMsb
+00 # [13] PbVolPrimaryRightLsb
+45 # [14] PbVolPrimaryRightMsb
+00 # [15] PbVolSecondaryLeftLsb
+00 # [16] PbVolSecondaryLeftMsb
+00 # [17] PbVolSecondaryRightLsb
+00 # [18] PbVolSecondaryRightMsb
+00 # [19] PbMutePrimaryLeftLsb
+40 # [20] PbMutePrimaryLeftMsb
+00 # [21] PbMutePrimaryRightLsb
+41 # [22] PbMutePrimaryRightMsb
+00 # [23] PbMuteSecondaryLeftLsb
+00 # [24] PbMuteSecondaryLeftMsb
+00 # [25] PbMuteSecondaryRightLsb
+00 # [26] PbMuteSecondaryRightMsb
+60 # [27] MiscProperties3
+66 # [28] MiscProperties4
+01 # [29] PbVolMinRegValue
+3F # [30] PbVolMaxRegValue
+00 # [31] MiscProperties5
+00 # [32] PbPrimaryVolUpdateRegAddrLeftLsb
+00 # [33] PbPrimaryVolUpdateRegAddrLeftMsb
+00 # [34] PbPrimaryVolUpdateRegAddrRightLsb
+00 # [35] PbPrimaryVolUpdateRegAddrRightMsb
+00 # [36] PbSecondaryVolUpdateRegAddrLeftLsb
+00 # [37] PbSecondaryVolUpdateRegAddrLeftMsb
+00 # [38] PbSecondaryVolUpdateRegAddrRightLsb
+00 # [39] PbSecondaryVolUpdateRegAddrRightMsb
+00 # [40] MiscProperties6
+08 # [41] MiscProperties7
+00 # [42] PbMuteVolRegValue
+1C # [43] MiscProperties8
+01 # [44] PbTerminalTypeLsb
+03 # [45] PbTerminalTypeMsb
+02 # [46] RecTerminalTypeLsb
+06 # [47] RecTerminalTypeMsb
+00 # [48] Reserved1
+00 # [49] Reserved2
+# DAC config
+F9
+53
+00
+57
+03
+8C
+55
+80
+50
+64
+FF
+64
+FF
+57
+03
+8C
+40
+33
+50
+57
+03
+8C
+41
+33
+50
+57
+03
+8C
+44
+39
+50
+57
+03
+8C
+45
+39
+50
+57
+03
+8C
+46
+01
+50
+57
+03
+8C
+49
+E0
+50
+57
+03
+8C
+7D
+3E
+50
+57
+03
+8C
+56
+01
+50
+57
+03
+8C
+48
+03
+50
+57
+03
+8C
+58
+11
+50
+57
+03
+8C
+49
+EC
+50
+57
+03
+8C
+4A
+01
+50
+00
+FA
+41
+00
+57
+03
+8C
+44
+79
+50
+57
+03
+8C
+45
+79
+50
+57
+03
+8C
+58
+11
+50
+57
+03
+8C
+49
+EC
+50
+57
+03
+8C
+52
+00
+50
+57
+03
+8C
+5A
+00
+50
+57
+03
+8C
+4A
+00
+50
+44
+C8
+44
+C8
+57
+03
+8C
+49
+E0
+50
+57
+03
+8C
+48
+00
+50
+57
+03
+8C
+49
+00
+50
+00
+FB
+49
+00
+57
+03
+8C
+40
+33
+50
+57
+03
+8C
+41
+33
+50
+57
+03
+8C
+44
+39
+50
+57
+03
+8C
+45
+39
+50
+57
+03
+8C
+46
+01
+50
+57
+03
+8C
+49
+E0
+50
+57
+03
+8C
+7D
+3E
+50
+57
+03
+8C
+56
+01
+50
+57
+03
+8C
+48
+03
+50
+57
+03
+8C
+58
+11
+50
+57
+03
+8C
+49
+EC
+50
+57
+03
+8C
+4A
+01
+50
+00
