@@ -62,3 +62,9 @@ Source: http://www.hifi-forum.de/viewthread-71-13538.html (german). Also with so
 <img src="docs/Reichelt GEH EG 1.jpg" alt="Housing Electronic Load" align="right" style="height: 200px; padding: 10px;" />
 
 The housing is a proMa "Euro-Gehäuse EG 1" article number "131 020", e.g. available at [Reichelt](https://www.reichelt.de/de/en/euro-casing-geh-eg-1-p50423.html). The front and back are custom 3D prints. The front panel PCB is also custom made exactly for this housing, but is fairly easy modified for any other housing front.
+
+
+# License
+The content of this whole repository is licensed under [CERN-OHL-W](License/cern_ohl_w_v2.txt) or later by Jonas Eberhard.
+
+Excepted is the software copied from Cypress in the AN721SW.zip file. This was copied to this repo for archiving purpose!
