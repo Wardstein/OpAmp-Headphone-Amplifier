@@ -65,6 +65,6 @@ The housing is a proMa "Euro-Gehäuse EG 1" article number "131 020", e.g. avail
 
 
 # License
-The content of this whole repository is licensed under [CERN-OHL-W](License/cern_ohl_w_v2.txt) or later by Jonas Eberhard.
+The content of this whole repository is licensed under [CERN-OHL-W v2](License/cern_ohl_w_v2.txt) or later by Jonas Eberhard.
 
 Excepted is the software copied from Cypress in the AN721SW.zip file. This was copied to this repo for archiving purpose!
